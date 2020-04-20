@@ -1,0 +1,57 @@
+/*Common Elements*/
+h1{
+    color: seagreen;
+    font-size: 2.0em;
+    margin: 0.5em 0 0.5em 0;
+    padding: 0;
+}
+h2{
+    color: darkgreen;
+    font-size: 1.7em;
+    padding: 0px;
+    margin: 0.5em 0 0.35em 0;
+}
+h3{
+    color: olive;
+}
+h4{
+    color: greenyellow;
+}
+h5{
+    color: olivedrab;
+}
+p {
+    color: black;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    padding: 0px;
+    margin: 0px 0.5em 0.75em 0px;
+}
+a, a:visited {
+    color: lightcoral;
+}
+a:hover {
+    color: pink;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: aqua;
+}
+
+#easterbutt
+{
+    margin-top: 50px;
+    height: 50px;
+    width: 100vw;
+    color: transparent;
+    background-color: transparent;
+    border: 0;
+    border-color: transparent;
+}
+
+
